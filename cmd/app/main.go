@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/elghazx/my-dompetku/internal/common/config"
+	"github.com/elghazx/my-dompetku/common/config"
 )
 
 func main() {
